@@ -11,7 +11,7 @@ pool:
 
 variables:
   buildConfiguration: 'Release'
-  proyecto: 'WebAPIAutores/WebAPIAutores.csproj'
+  proyecto: 'WebApiAutores/WebApiAutores.csproj'
 
 steps:
 - task: UseDotNet@2
